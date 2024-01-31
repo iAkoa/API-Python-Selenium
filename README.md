@@ -153,4 +153,4 @@ Il existe deux types de wait dans Selenium :
 
 ## Norme
 
-Ce projet respecte la norme PEP 8 pour le style de codage Python.
+Ce projet respecte la norme PEP 8 Python.
