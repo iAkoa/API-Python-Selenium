@@ -1,6 +1,6 @@
 # API-Selenium-Python
 
-Ce projet implémente une API en Python pour automatiser les interactions avec les navigateurs web via Selenium. Il permet de lire un ensemble d'instructions à partir d'un fichier JSON et d'exécuter diverses actions telles que naviguer sur des pages web, cliquer sur des éléments, exécuter des scripts JavaScript, prendre des captures d'écran ainsi qu'installer un plugin.
+Ce projet implémente une API en Python pour automatiser les interactions avec les navigateurs web via Selenium. Il permet de lire un ensemble d'instructions à partir d'un fichier JSON et d'exécuter diverses actions telles que naviguer sur des pages web, cliquer sur des éléments, exécuter des scripts JavaScript, prendre des captures d'écran et installer des plugins.
 
 ## Table des Matières
 
