@@ -1,0 +1,24 @@
+{
+	"actions": [
+		{
+			"type": "navigate",
+			"url": "https://digitalkin.ai"
+		},
+		{
+			"type": "click",
+			"selector": ".sqs-block-button-element--medium"
+		},
+		{
+			"type": "execute_script",
+			"script": "return document.title;"
+		},
+		{
+			"type": "screenshot",
+			"filename": "screenshot.png"
+		},
+		{
+			"type": "install_plugin",
+			"plugin_name": "I don't care about cookies 3.5.0.0.crx"
+		}
+	]
+}
